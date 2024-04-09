@@ -61,4 +61,6 @@
   defaultBranch = master
 [user]
 	email = valonalija@web.de
-	name = Valon Alija
+	name = "#valon alija"
+[credential]
+	helper = cache
